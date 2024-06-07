@@ -6,11 +6,11 @@ The project is the Situational Center with two additional conference rooms and a
 
 There are 23 working spaces with monitors and touch panels which you can see in the picture below.
 
-![img.png](img.png)
+![img.png](img/img.png)
 
 The most interesting part is the professional audio matrix Stagetec Nexus.
 
-![img_1.png](img_1.png)
+![img_1.png](img/img_1.png)
 
 This is a customized optical audio matrix whose individual blocks can be connected together and work as one. 
 
@@ -42,7 +42,7 @@ The picture below shows the virtual conference management interface. Here you ca
 - who is in the same virtual room with the current user
 - whether the telephone interface or software video conferencing of the current user is connected to the virtual room
 
-![img_2.png](img_2.png)
+![img_2.png](img/img_2.png)
 
  - You can find the configuration data in <u>"2_3_Audio_Data"</u> file. 
  - And logic in <u>"2_1_Comm_Audio"</u> file. 
@@ -59,5 +59,5 @@ It allows:
 - rebandage microphones
 - monitor the charge of microphone batteries
 
-![img_3.png](img_3.png)
+![img_3.png](img/img_3.png)
 
